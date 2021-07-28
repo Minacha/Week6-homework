@@ -53,6 +53,9 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
-.footnote{
-    text-align: center;
+.footnote{      
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+    
 }
